@@ -214,7 +214,7 @@ global:
   ]
 
   #global map colours
-  land_color: rgb (47, 58, 79)
+  land_color: rgb (34, 52, 58)
   beach_color: rgb (60, 60, 60)
   glacier_color: rgb (100, 100, 100)
   woodland_color: rgb (50, 50, 50)
@@ -313,13 +313,13 @@ global:
     [16, 'rgb(70, 70, 70)']
   ]
   national_park_color: [
-    [0 , 'rgba(78, 97, 74, .8)'],
-    [6 , 'rgba(78, 97, 74, .4)'],
-    [8 , 'rgba(78, 97, 74, .4)'],
-    [9 , 'rgba(78, 97, 74, .4)'],
-    [10, 'rgba(78, 97, 74, .4)'],
-    [11, 'rgba(78, 97, 74, .3)'],
-    [16, 'rgba(78, 97, 74, .3)']
+    [0 , 'rgba(52, 80, 88, .8)'],
+    [6 , 'rgba(52, 80, 88, .4)'],
+    [8 , 'rgba(52, 80, 88, .4)'],
+    [9 , 'rgba(52, 80, 88, .4)'],
+    [10, 'rgba(52, 80, 88, .4)'],
+    [11, 'rgba(52, 80, 88, .3)'],
+    [16, 'rgba(52, 80, 88, .3)']
   ]
   island_color: rgb(81,87,4)
   island_outline_color: rgba(250,253,255, .39)
