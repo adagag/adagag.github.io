@@ -359,12 +359,12 @@ global:
   university_campus_color: rgb (90, 90, 90)
   state_boundary_text_color: rgb(132,132,132)
   country_boundary_color: [
-    [4, 'rgb(160, 160, 180)'],
-    [5, 'rgb(200, 120, 140)'],
+    [4, 'rgb(100, 160, 180)'],
+    [5, 'rgb(100, 160, 180)'],
     [6, 'rgb(100, 160, 180)'],
     [7, 'rgb(100, 160, 180)'],
-    [8, 'rgb(170, 100, 120)'],
-    [9, 'rgb(150, 100, 120)']
+    [8, 'rgb(100, 160, 180)'],
+    [9, 'rgb(100, 160, 180)']
   ]
   country_boundary_outline_color: [
     [3, 'rgba(190, 190, 190, 0.15)'],
